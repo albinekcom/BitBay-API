@@ -1,1 +1,1 @@
-# BitBay-API
+# BitBay API Tools
