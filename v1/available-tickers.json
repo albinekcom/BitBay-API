@@ -1,6 +1,6 @@
 {
 	"data": {
-		"availableTickers: [
+		"availableTickers": [
 			"BTC/PLN", "BTC/USD", "BTC/EUR",
 			"LTC/PLN", "LTC/USD", "LTC/EUR", "LTC/BTC",
 			"ETH/PLN", "ETH/USD", "ETH/EUR", "ETH/BTC",
