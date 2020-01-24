@@ -32,6 +32,7 @@
 			"XBX-PLN",
 			"XLM-PLN", "XLM-USD", "XLM-EUR", "XLM-BTC",
 			"USDC-USD"
-		]
+		],
+		"sortingOrder": ["PLN", "USD", "EUR", "BTC"]
 	}
 }
