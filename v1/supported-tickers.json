@@ -172,6 +172,5 @@
 		"EUR": "Euro",
 		"GBP": "Funt brytyjski",
 		"XMR": "Monero"
-	},
-	"sortOrder": ["PLN", "EUR", "USD", "GBP", "BTC", "USDC"]
+	}
 }
