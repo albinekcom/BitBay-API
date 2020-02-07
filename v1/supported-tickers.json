@@ -130,7 +130,7 @@
 		"BCC-USDC",
 		"USDC-USD"
 	],
-	"fullNames": {
+	"names": {
 		"BTC": "Bitcoin",
 		"BCC": "Bitcoin Cash",
 		"LTC": "Litecoin",
@@ -173,5 +173,5 @@
 		"GBP": "Funt brytyjski",
 		"XMR": "Monero"
 	},
-	"sortingOrder": ["PLN", "EUR", "USD", "GBP", "BTC", "USDC"]
+	"sortOrder": ["PLN", "EUR", "USD", "GBP", "BTC", "USDC"]
 }
