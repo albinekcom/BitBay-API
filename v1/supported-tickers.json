@@ -13,7 +13,6 @@
 		"XRP-PLN",
 		"XIN-PLN",
 		"KZC-PLN",
-		"XMR-PLN",
 		"ZEC-PLN",
 		"TRX-PLN",
 		"OMG-PLN",
@@ -44,7 +43,6 @@
 		"XRP-EUR",
 		"XIN-EUR",
 		"KZC-EUR",
-		"XMR-EUR",
 		"ZEC-EUR",
 		"TRX-EUR",
 		"OMG-EUR",
@@ -71,7 +69,6 @@
 		"XRP-USD",
 		"XIN-USD",
 		"KZC-USD",
-		"XMR-USD",
 		"ZEC-USD",
 		"TRX-USD",
 		"OMG-USD",
@@ -96,7 +93,6 @@
 		"KZC-BTC",
 		"XRP-BTC",
 		"XIN-BTC",
-		"XMR-BTC",
 		"ZEC-BTC",
 		"TRX-BTC",
 		"OMG-BTC",
@@ -170,7 +166,6 @@
 		"PLN": "Złoty",
 		"USD": "Dolar",
 		"EUR": "Euro",
-		"GBP": "Funt brytyjski",
-		"XMR": "Monero"
+		"GBP": "Funt brytyjski"
 	}
 }
